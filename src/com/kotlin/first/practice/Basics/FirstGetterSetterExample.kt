@@ -1,4 +1,4 @@
-package com.kotlin.first.practice
+package com.kotlin.first.practice.Basics
 
 //it creating getter and setter
 //var means --> Mutable objects

@@ -1,4 +1,4 @@
-package com.kotlin.first.practice
+package com.kotlin.first.practice.ControlFlow
 
 //In kotlin "When expression replaces classic switch statement
 //when has two forms 1->with argument 2-> without argument

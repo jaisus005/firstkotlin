@@ -1,4 +1,4 @@
-package com.kotlin.first.practice
+package com.kotlin.first.practice.Basics
 
 fun main(args : Array<String>){
 
